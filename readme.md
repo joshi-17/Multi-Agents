@@ -313,4 +313,4 @@ The `utils/execution.py` script handles the execution of tools and the overall w
 
 ### 5.1 Running the System <a name="running-the-system"></a>
 
-To run the system, execute the `main.py` script:
+To run the system, execute the `main.py` script: yes
